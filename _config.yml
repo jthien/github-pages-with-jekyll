@@ -2,9 +2,7 @@ theme: minima
 title: The gardeners blog
 author: jthien
 email: joerg.thienenkamp@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-What if you needed food and have 4 month time to let it grow? You
-can let  it grow in you garden. Crazy? Not at all!
+description: What if you needed food and have 4 month time to let it grow? You can let  it grow in you garden. Crazy? Not at all!
 
 # social links
 twitter_username: jthien
