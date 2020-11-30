@@ -3,13 +3,11 @@ title: The gardeners blog
 author: jthien
 email: joerg.thienenkamp@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  What if you needed food and have 4 month time to let it grow? You
-  can let  # comment here
- it grow in you garden. Crazy?
- Not at all!
+What if you needed food and have 4 month time to let it grow? You
+can let  it grow in you garden. Crazy? Not at all!
 
 # social links
 twitter_username: jthien
-github_username:  jthien
+github_username: jthien
 
 show_excerpts: true # set to false to remove excerpts on the homepage
